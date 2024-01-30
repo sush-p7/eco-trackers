@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082069999245",
+    "project_id": "etracker-478d3",
+    "storage_bucket": "etracker-478d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082069999245:android:c596dd7b9f689c1f3bccc4",
+        "android_client_info": {
+          "package_name": "com.example.fourth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXTloRCw97L2QdlfVU-zG9DXmJ3Ak5y2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
