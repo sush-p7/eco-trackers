@@ -1,11 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:fourth_app/firebase_options.dart';
-import 'package:fourth_app/widget/splash_screen/splash.dart';
-
+import 'package:expense_tracker/firebase_options.dart';
+import 'package:expense_tracker/widget/splash_screen/splash.dart';
 var kColorScheme =
     ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 96, 59, 181));
-
 var kDarkColorScheme = ColorScheme.fromSeed(
     seedColor: const Color.fromARGB(255, 5, 99, 125),
     brightness: Brightness.dark);

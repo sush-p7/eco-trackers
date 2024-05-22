@@ -1,9 +1,9 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:fourth_app/main.dart';
-import 'package:fourth_app/widget/login/signup.dart';
-import 'package:fourth_app/widget/login/login.dart';
+import 'package:expense_tracker/main.dart';
+import 'package:expense_tracker/widget/login/signup.dart';
+import 'package:expense_tracker/widget/login/login.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

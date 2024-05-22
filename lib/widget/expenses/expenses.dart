@@ -7,11 +7,11 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:fourth_app/widget/chart/chart.dart';
-import 'package:fourth_app/widget/expenses_list/expenses_list.dart';
-import 'package:fourth_app/models/expense.dart';
-import 'package:fourth_app/widget/login/login.dart';
-import 'package:fourth_app/widget/new_expense/new_expense.dart';
+import 'package:expense_tracker/widget/chart/chart.dart';
+import 'package:expense_tracker/widget/expenses_list/expenses_list.dart';
+import 'package:expense_tracker/models/expense.dart';
+import 'package:expense_tracker/widget/login/login.dart';
+import 'package:expense_tracker/widget/new_expense/new_expense.dart';
 
 class Expenses extends StatefulWidget {
   const Expenses({

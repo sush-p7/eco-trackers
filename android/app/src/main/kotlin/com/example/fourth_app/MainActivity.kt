@@ -1,4 +1,4 @@
-package com.example.fourth_app
+package com.sush_studio.expense_tracker
 
 import io.flutter.embedding.android.FlutterActivity
 

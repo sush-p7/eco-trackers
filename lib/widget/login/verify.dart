@@ -4,9 +4,9 @@ import 'dart:developer';
 import 'package:animate_do/animate_do.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:fourth_app/main.dart';
-import 'package:fourth_app/widget/expenses/expenses.dart';
-import 'package:fourth_app/widget/login/login_options.dart';
+import 'package:expense_tracker/main.dart';
+import 'package:expense_tracker/widget/expenses/expenses.dart';
+import 'package:expense_tracker/widget/login/login_options.dart';
 
 class VerifyEmail extends StatefulWidget {
   const VerifyEmail({super.key});

@@ -1,16 +1,11 @@
 import 'dart:async';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-
-import 'package:fourth_app/widget/expenses/expenses.dart';
-
-import 'package:fourth_app/widget/login/login_options.dart';
+import 'package:expense_tracker/widget/expenses/expenses.dart';
+import 'package:expense_tracker/widget/login/login_options.dart';
 import 'package:lottie/lottie.dart';
-
 class Splash extends StatefulWidget {
   const Splash({super.key});
-
   @override
   State<Splash> createState() => _SplashState();
 }
